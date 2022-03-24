@@ -23,5 +23,17 @@
 }
 #babyMatrix {
     padding: 20px;
-    width: 100px;
+    width: 80%;
+}
+.boldAdvice {
+    font-weight: bold;
+}
+#cardText {
+    font-weight: normal;
+}
+.container-fluid {
+    margin: 64px auto;
+}
+#adviceCards {
+    margin: 24px auto
 }
