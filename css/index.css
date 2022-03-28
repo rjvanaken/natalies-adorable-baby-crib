@@ -75,7 +75,7 @@ h2 {
     padding-top: 30px;
 }
 #adviceContainer {
-    background-image: url("/images/advice-background.jpg");
+    background-image: url("images/advice-background.jpg");
     background-repeat: no-repeat;
     background-position: center;
     padding: 24px 0;
