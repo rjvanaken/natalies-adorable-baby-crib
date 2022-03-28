@@ -139,3 +139,23 @@ h2 {
     justify-content: center;
     display: flex;
 }
+
+#demo {
+    margin: 0px;
+}
+
+#countdownLabel {
+    margin: 0px;
+    font-weight: 600;
+}
+#countdown {
+    display: flex;
+    text-align: center;
+    font-size: 35px;
+    padding: 0px;
+    height: fit-content;
+    background-color: #C4D06E;
+    align-items: center;
+    padding: 5px 0px;
+    justify-content: center;
+}
